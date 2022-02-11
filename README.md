@@ -3,4 +3,4 @@
 
 
 
-This website can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This website can be found at: [https://<zaida-hammel>.github.io/<ICS2O-Intro-03-JS>](https://<OWNER>.github.io/<REPOSITORY>)
